@@ -43,7 +43,7 @@
 
 /* set default star color */
 .rating__icon--star {
-  color: orange;
+  color: #007AFF;
 }
 
 /* set color of none icon when unchecked */
@@ -61,10 +61,10 @@
   color: #ddd;
 }
 
-/* make all stars orange on rating group hover */
+/* make all stars #007AFF on rating group hover */
 .rating-group:hover .rating__label .rating__icon--star,
 .rating-group:hover .rating__label--half .rating__icon--star {
-  color: orange;
+  color: #007AFF;
 }
 
 /* make hovered input's following siblings grey on hover */
